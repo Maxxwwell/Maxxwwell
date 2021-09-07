@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Maxxwwell
 - 👀 I’m interested in building flutter apps
-- 🌱 I’m currently working on finding clients to work with
+- 🌱 I’m currently working on finding opportunities to expand knwoledge and grow as a developer
 - 💞️ I’m looking to collaborate on building more flutter apps
 - 📫 How to reach me agyeimaxwell54@gmail.com
 
